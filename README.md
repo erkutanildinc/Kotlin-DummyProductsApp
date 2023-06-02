@@ -1,8 +1,8 @@
-## Dummy Products App
+# Dummy Products App
 
 Dummy Products App is an application where get and post operations are used together with retrofit. Products are listed in main screen via listview and user can order a product. This project is the second midterm exam of "Turkcell-Geleceği Yazanlar" bootcamp.
 
-# Libraries and Versions
+## Libraries and Versions
   
  Glide <p>
  implementation 'com.github.bumptech.glide:glide:4.15.1
