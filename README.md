@@ -1,7 +1,16 @@
+## Dummy Products App
 
-## Dummy Prodcuts App
+Dummy Products App is an application where get and post operations are used together with retrofit. Products are listed in main screen via listview and user can order a product. This project is the second midterm exam of "Turkcell-Geleceği Yazanlar" bootcamp.
 
-It is an application where get and post operations are used together with retrofit. Products are listed in main screen via listview and user can order product
+# Libraries and Versions
+  
+ Glide <p>
+ implementation 'com.github.bumptech.glide:glide:4.15.1
+
+Retrofit <p>
+ implementation group: 'com.squareup.retrofit2', name: 'retrofit', version: '2.9.0'
+
+ implementation group: 'com.squareup.retrofit2', name: 'converter-gson', version: '2.9.0'
   
 ## Screenshots
 
